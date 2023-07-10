@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(to bottom right, rgb(0, 92, 69), rgb(241, 193, 90));
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.main{
+    color: #ffffff;
+    text-align: center;
+    margin: auto;
+    width: 450px;
+    background-color: #00584a;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.main img{
+    width: 250px;
+    border-radius: 50%;
+}
+
+.main h1{
+    text-transform: uppercase;
+}
+
+.main a{
+    background-color: #6495ed;
+    padding: 7px 25px;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+}
